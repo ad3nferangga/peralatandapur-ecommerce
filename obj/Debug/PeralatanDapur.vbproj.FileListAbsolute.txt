@@ -1,0 +1,272 @@
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.Form1.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.Form2.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormDashboard.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormJual.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormPenjual.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.Resources.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\bin\Debug\PeralatanDapur.exe.config
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\bin\Debug\PeralatanDapur.exe
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\bin\Debug\PeralatanDapur.pdb
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\bin\Debug\PeralatanDapur.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.exe
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.pdb
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormKeranjang.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormProduk.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormCheckout.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormPesananSaya.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormLihatReview.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormPesanan.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur\obj\Debug\PeralatanDapur.FormReview.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.vbproj.AssemblyReference.cache
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.exe
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.pdb
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\PeralatanDapur.exe.config
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\PeralatanDapur.exe
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\PeralatanDapur.pdb
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\PeralatanDapur.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.Form1.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.Form2.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormCheckout.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormDashboard.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormJual.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormKeranjang.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormLaporan.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormPesananSaya.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormLihatReview.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormPenjual.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormPesanan.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormProduk.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormReview.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.Resources.resources
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\MySql.Data.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Buffers.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.IO.Pipelines.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Memory.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\ZstdSharp.dll
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\MySql.Data.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Buffers.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.IO.Pipelines.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Memory.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Documents\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\Peralata.06E376EB.Up2Date
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.exe
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.pdb
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.Form1.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.Form2.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormCheckout.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormDashboard.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormJual.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormKeranjang.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormLaporan.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormPesananSaya.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormLihatReview.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormPenjual.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormPesanan.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormProduk.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormReview.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.Resources.resources
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\PeralatanDapur.exe.config
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\PeralatanDapur.exe
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\PeralatanDapur.pdb
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\PeralatanDapur.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\MySql.Data.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Buffers.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Memory.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\ZstdSharp.dll
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Google.Protobuf.pdb
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Google.Protobuf.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\MySql.Data.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Buffers.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Memory.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\Peralata.06E376EB.Up2Date
+C:\Users\hp\OneDrive\Documents\Kuliah\Basis Data\PeralatanDapur - Copy\PeralatanDapur - Copy\obj\Debug\PeralatanDapur.FormAlamat.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\PeralatanDapur.exe.config
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\PeralatanDapur.exe
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\PeralatanDapur.pdb
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\PeralatanDapur.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Google.Protobuf.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\K4os.Compression.LZ4.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\K4os.Hash.xxHash.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\MySql.Data.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Buffers.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.IO.Pipelines.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Memory.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Numerics.Vectors.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ZstdSharp.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Google.Protobuf.pdb
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Google.Protobuf.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\K4os.Compression.LZ4.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\K4os.Hash.xxHash.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\MySql.Data.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Buffers.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.IO.Pipelines.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Memory.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Numerics.Vectors.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.vbproj.AssemblyReference.cache
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.Form1.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.Form2.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormAlamat.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormCheckout.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormDashboard.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormJual.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormKeranjang.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormLaporan.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormPesananSaya.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormLihatReview.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormPenjual.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormPesanan.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormProduk.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.FormReview.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.Resources.resources
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.vbproj.GenerateResource.cache
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.vbproj.CoreCompileInputs.cache
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\Peralata.06E376EB.Up2Date
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.exe
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.pdb
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.SqlServer.Server.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\EnvDTE.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\stdole.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.SqlServer.Server.pdb
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\Microsoft.SqlServer.Server.xml
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Semester 3\Basis data\PeralatanDapur\PeralatanDapur\obj\Debug\PeralatanDapur.Cetak.resources
